@@ -2,5 +2,6 @@ package Welcome.Javaprog.PracticeProg;
 class HelloWorld{
     public static void main(String[] args){
         System.out.println("Hello World");
+        System.out.println("hloo");
     }
 }
