@@ -8,6 +8,7 @@ public class PrimitiveDatatype {
         System.out.println("number one is:" + num1);
         System.out.println("number two is:" + num2);
         System.out.println("sum of two numbers=" + sum);
+        System.out.println("hlo");
 
     }
 }
